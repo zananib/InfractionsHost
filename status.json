@@ -1,6 +1,6 @@
 [
   {
-    "status": false,
-    "updateNerbly": true
+    "status": true,
+    "updateNerbly": false
   }
 ]

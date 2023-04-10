@@ -1,5 +1,7 @@
 [
   {
-      "status": true
+    "status": true,
+    "isNerblyUpdate": false,
+    "currentVersion": 1,
   }
 ]

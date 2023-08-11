@@ -1,8 +1,8 @@
 [
   {
-    "status": false,
-    "isNerblyUpdate": true,
-    "currentVersion": 6,
+    "status": true,
+    "isNerblyUpdate": false,
+    "currentVersion": 7,
     
     
     "updateNerbly": true

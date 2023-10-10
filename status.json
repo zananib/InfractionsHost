@@ -1,11 +1,9 @@
-[
-  {
-    "status": true,
-    "isNerblyUpdate": false,
-    "currentVersion": 7,
-    "homepage_url": "https://infractionsroutieres.narsa.gov.ma/InfractionsRoutieres/sign-in",
-    
-    
-    "updateNerbly": true
-  }
-]
+{
+  "status": true,
+  "isNerblyUpdate": false,
+  "currentVersion": 7,
+  "homepage_url": "https://infractionsroutieres.narsa.gov.ma/InfractionsRoutieres/sign-in",
+
+  
+  "updateNerbly": true
+}

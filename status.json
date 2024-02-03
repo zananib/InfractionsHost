@@ -2,7 +2,7 @@
   "status": true,
   "isNerblyUpdate": false,
   "currentVersion": 12,
-  "willRedirectUsersToInfractionsWeb": false,
+  "willRedirectUsersToInfractionsWeb": true,
   "homepage_url": "https://infractionsroutieres.narsa.gov.ma/InfractionsRoutieres/sign-in",
 
   
